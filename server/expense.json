@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "expenseDescription": "Electricity Bill",
+      "payeeName": "Ramesh",
+      "price": 231,
+      "date": "2023-01-04",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Water Bill",
+      "payeeName": "Ramesh",
+      "price": 210,
+      "date": "2023-01-15",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Grocery",
+      "payeeName": "Rahul",
+      "price": 534,
+      "date": "2023-01-02",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Gas Pipeline",
+      "payeeName": "Ramesh",
+      "price": 500,
+      "date": "2023-01-30",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Maintenance Bill",
+      "payeeName": "Rahul",
+      "price": 2500,
+      "date": "2023-02-01",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Movie Ticket",
+      "payeeName": "Ramesh",
+      "price": 670,
+      "date": "2022-12-27",
+      "id": 6
+    }
+  ]
+}

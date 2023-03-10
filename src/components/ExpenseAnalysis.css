@@ -1,0 +1,24 @@
+.analysis_heading {
+  width: 400px;
+  text-align: justify;
+  font-size: 20px;
+  height: 30px;
+  background-color: chocolate;
+  border: 2px solid black;
+}
+
+#amt_spent {
+  background-color: palevioletred;
+  font-weight: bold;
+}
+
+#amt_rahul,
+#amt_ramesh {
+  font-weight: bold;
+  background-color: pink;
+}
+
+#amt_pay {
+  background-color: plum;
+  font-weight: bold;
+}
